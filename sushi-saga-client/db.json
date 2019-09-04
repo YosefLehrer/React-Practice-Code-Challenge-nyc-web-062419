@@ -1,10 +1,11 @@
-{ 
+{
   "sushis": [
     {
       "id": 1,
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.241Z"
     },
     {
@@ -12,6 +13,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.244Z"
     },
     {
@@ -19,6 +21,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.248Z"
     },
     {
@@ -26,6 +29,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.251Z"
     },
     {
@@ -33,6 +37,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.255Z"
     },
     {
@@ -40,6 +45,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.258Z"
     },
     {
@@ -47,6 +53,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.260Z"
     },
     {
@@ -54,6 +61,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.264Z"
     },
     {
@@ -61,6 +69,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.275Z"
     },
     {
@@ -68,6 +77,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.279Z"
     },
     {
@@ -75,6 +85,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.282Z"
     },
     {
@@ -82,6 +93,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.284Z"
     },
     {
@@ -89,6 +101,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.287Z"
     },
     {
@@ -96,6 +109,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.288Z"
     },
     {
@@ -103,6 +117,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.290Z"
     },
     {
@@ -110,6 +125,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.292Z"
     },
     {
@@ -117,6 +133,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.295Z"
     },
     {
@@ -124,6 +141,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.297Z"
     },
     {
@@ -131,6 +149,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.299Z"
     },
     {
@@ -138,6 +157,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.301Z"
     },
     {
@@ -145,6 +165,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.303Z"
     },
     {
@@ -152,6 +173,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.306Z"
     },
     {
@@ -159,6 +181,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.308Z"
     },
     {
@@ -166,6 +189,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.310Z"
     },
     {
@@ -173,6 +197,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.312Z"
     },
     {
@@ -180,6 +205,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.314Z"
     },
     {
@@ -187,6 +213,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.316Z"
     },
     {
@@ -194,6 +221,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.319Z"
     },
     {
@@ -201,6 +229,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.320Z"
     },
     {
@@ -208,6 +237,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.322Z"
     },
     {
@@ -215,6 +245,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.337Z"
     },
     {
@@ -222,6 +253,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.340Z"
     },
     {
@@ -229,6 +261,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.343Z"
     },
     {
@@ -236,6 +269,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.345Z"
     },
     {
@@ -243,6 +277,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.348Z"
     },
     {
@@ -250,6 +285,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.350Z"
     },
     {
@@ -257,6 +293,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.353Z"
     },
     {
@@ -264,6 +301,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.355Z"
     },
     {
@@ -271,6 +309,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.357Z"
     },
     {
@@ -278,6 +317,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.360Z"
     },
     {
@@ -285,6 +325,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.364Z"
     },
     {
@@ -292,6 +333,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.372Z"
     },
     {
@@ -299,6 +341,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.375Z"
     },
     {
@@ -306,6 +349,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.378Z"
     },
     {
@@ -313,6 +357,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.381Z"
     },
     {
@@ -320,6 +365,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.383Z"
     },
     {
@@ -327,6 +373,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.386Z"
     },
     {
@@ -334,6 +381,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.388Z"
     },
     {
@@ -341,6 +389,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.391Z"
     },
     {
@@ -348,6 +397,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.393Z"
     },
     {
@@ -355,6 +405,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.396Z"
     },
     {
@@ -362,6 +413,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.398Z"
     },
     {
@@ -369,6 +421,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.401Z"
     },
     {
@@ -376,6 +429,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.403Z"
     },
     {
@@ -383,6 +437,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.405Z"
     },
     {
@@ -390,6 +445,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.407Z"
     },
     {
@@ -397,6 +453,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.410Z"
     },
     {
@@ -404,6 +461,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.412Z"
     },
     {
@@ -411,6 +469,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.415Z"
     },
     {
@@ -418,6 +477,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.417Z"
     },
     {
@@ -425,6 +485,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.420Z"
     },
     {
@@ -432,6 +493,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.422Z"
     },
     {
@@ -439,6 +501,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.425Z"
     },
     {
@@ -446,6 +509,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.427Z"
     },
     {
@@ -453,6 +517,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.429Z"
     },
     {
@@ -460,6 +525,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.432Z"
     },
     {
@@ -467,6 +533,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.434Z"
     },
     {
@@ -474,6 +541,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.437Z"
     },
     {
@@ -481,6 +549,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.439Z"
     },
     {
@@ -488,6 +557,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.441Z"
     },
     {
@@ -495,6 +565,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.443Z"
     },
     {
@@ -502,6 +573,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.445Z"
     },
     {
@@ -509,6 +581,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.447Z"
     },
     {
@@ -516,6 +589,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.450Z"
     },
     {
@@ -523,6 +597,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.453Z"
     },
     {
@@ -530,6 +605,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.455Z"
     },
     {
@@ -537,6 +613,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.458Z"
     },
     {
@@ -544,6 +621,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.460Z"
     },
     {
@@ -551,6 +629,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.462Z"
     },
     {
@@ -558,6 +637,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.468Z"
     },
     {
@@ -565,6 +645,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.472Z"
     },
     {
@@ -572,6 +653,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.475Z"
     },
     {
@@ -579,6 +661,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.477Z"
     },
     {
@@ -586,6 +669,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.480Z"
     },
     {
@@ -593,6 +677,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.483Z"
     },
     {
@@ -600,6 +685,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.485Z"
     },
     {
@@ -607,6 +693,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.487Z"
     },
     {
@@ -614,6 +701,7 @@
       "name": "Kawaii Maguro",
       "img_url": "https://i.imgur.com/RJGr3Xs.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.489Z"
     },
     {
@@ -621,6 +709,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.491Z"
     },
     {
@@ -628,6 +717,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.493Z"
     },
     {
@@ -635,6 +725,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.495Z"
     },
     {
@@ -642,6 +733,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.498Z"
     },
     {
@@ -649,6 +741,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.500Z"
     },
     {
@@ -656,6 +749,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.502Z"
     },
     {
@@ -663,6 +757,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.504Z"
     },
     {
@@ -670,6 +765,7 @@
       "name": "Tako Supreme",
       "img_url": "https://sushistickers.com/img/sushi-slice_99.png",
       "price": 20,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.507Z"
     },
     {
@@ -677,6 +773,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.509Z"
     },
     {
@@ -684,6 +781,7 @@
       "name": "Genki Toro",
       "img_url": "https://sushistickers.com/img/sushi-slice_03.png",
       "price": 25,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.511Z"
     },
     {
@@ -691,6 +789,7 @@
       "name": "Oh Sake",
       "img_url": "https://sushistickers.com/img/sushi-slice_29.png",
       "price": 10,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.513Z"
     },
     {
@@ -698,6 +797,7 @@
       "name": "Tsundere Ebi",
       "img_url": "https://sushistickers.com/img/sushi-slice_75.png",
       "price": 15,
+      "eaten": false,
       "created_at": "2018-07-27T18:53:16.516Z"
     }
   ]
